@@ -12,7 +12,7 @@ The objective was to transform raw business data into meaningful insights that s
 
 ### Customer Performance Report
 
-📄 [View Report]()
+📄 [View Report](https://github.com/KhushiSoni-78/Sales-Finance-Analytics-Excel-Project/blob/main/customer%20performance%20report.pdf)
 
 Analyzed customer-wise sales performance across multiple years to identify growth trends, high-value customers, and revenue contribution.
 
