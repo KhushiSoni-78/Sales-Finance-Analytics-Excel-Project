@@ -140,10 +140,6 @@ This project enables stakeholders to:
 Aspiring Data Analyst passionate about leveraging data analytics and business intelligence to solve real-world business problems and support data-driven decision-making.
 
 🔗 LinkedIn: www.linkedin.com/in/khushi-soni-analytics
-khushi-soni-analytics
-Vanity URL name
-
-
 ---
 
 ⭐ If you found this project helpful, feel free to star the repository.
