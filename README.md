@@ -133,32 +133,16 @@ This project enables stakeholders to:
 
 ---
 
-## 📸 Project Snapshots
-
-### Customer Performance Report
-![Customer Performance](images/customer-performance.png)
-
-### Market Performance vs Target
-![Market Performance](images/market-vs-target.png)
-
-### P&L by Fiscal Year
-![P&L Fiscal Year](images/pl-fiscal-year.png)
-
-### P&L by Month
-![P&L Month](images/pl-month.png)
-
-### P&L by Market
-![P&L Market](images/pl-market.png)
-
----
-
 ## 👩‍💻 Author
 
 **Khushi Soni**
 
 Aspiring Data Analyst passionate about leveraging data analytics and business intelligence to solve real-world business problems and support data-driven decision-making.
 
-🔗 LinkedIn: https://www.linkedin.com/in/your-linkedin-profile/
+🔗 LinkedIn: www.linkedin.com/in/khushi-soni-analytics
+khushi-soni-analytics
+Vanity URL name
+
 
 ---
 
