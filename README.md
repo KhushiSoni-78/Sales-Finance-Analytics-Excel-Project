@@ -67,18 +67,6 @@ Performed market-wise profitability analysis to identify regions generating the 
 
 ---
 
-## 📑 Reports Included
-
-| Report | Link |
-|---------|---------|
-| Customer Performance Report | [Open PDF](./Customer%20Performance%20Report.pdf) |
-| Market Performance vs Target Report | [Open PDF](./Market%20Performance%20vs%20Target.pdf) |
-| P&L Statement by Fiscal Year | [Open PDF](./P%26L%20Statement%20by%20Fiscal%20Years.pdf) |
-| P&L Statement by Month | [Open PDF](./P%26L%20Statement%20by%20Months.pdf) |
-| P&L Statement by Market | [Open PDF](./P%26L%20Statement%20by%20Markets.pdf) |
-
----
-
 ## 🛠️ Technical Skills Demonstrated
 
 ### Data Preparation & Transformation
