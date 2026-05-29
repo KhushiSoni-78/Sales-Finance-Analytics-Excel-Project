@@ -53,7 +53,7 @@ Created monthly financial reports to analyze:
 
 ### Profit & Loss Statement by Market
 
-📄 [View Report](./P%26L%20Statement%20by%20Markets.pdf)
+📄 [View Report](https://github.com/KhushiSoni-78/Sales-Finance-Analytics-Excel-Project/blob/main/P%26L%20statement%20by%20markets.pdf)
 
 Performed market-wise profitability analysis to identify regions generating the highest returns.
 
