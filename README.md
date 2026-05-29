@@ -36,7 +36,7 @@ Compared actual market sales against predefined targets to evaluate performance 
 
 ### Profit & Loss Statement by Fiscal Year
 
-📄 [View Report](./P%26L%20Statement%20by%20Fiscal%20Years.pdf)
+📄 [View Report](https://github.com/KhushiSoni-78/Sales-Finance-Analytics-Excel-Project/blob/main/P%26L%20statement%20by%20fiscal%20years.pdf)
 
 Developed a consolidated P&L report to monitor overall financial performance across fiscal years.
 
