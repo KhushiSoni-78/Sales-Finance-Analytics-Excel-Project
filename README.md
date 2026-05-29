@@ -18,7 +18,7 @@ Analyzed customer-wise sales performance across multiple years to identify growt
 
 ### Market Performance vs Target Report
 
-📄 [View Report](./Market%20Performance%20vs%20Target.pdf)
+📄 [View Report](https://github.com/KhushiSoni-78/Sales-Finance-Analytics-Excel-Project/blob/main/market%20performance%20vs%20target.pdf)
 
 Compared actual market sales against predefined targets to evaluate performance gaps and uncover opportunities for improvement.
 
